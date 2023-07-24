@@ -1,0 +1,28 @@
+{
+  "unversionedId": "polymer/zkmint",
+  "id": "polymer/zkmint",
+  "title": "Reducing EVM consensus proof verifcation cost with zkMint",
+  "description": "The Polymer chain, through its consensus engine zkMint, will generate a header with signatures optimized for an off-chain zero-knowledge (ZK) circuit and verification in the EVM . An off-chain ZK prover will produce a zero-knowledge-proof (ZKP) of (Polymer’s) consensus that is verified on Ethereum (virtual chain) by the verifier contract, providing a significant reduction in gas cost.",
+  "source": "@site/docs/polymer/6-zkmint.md",
+  "sourceDirName": "polymer",
+  "slug": "/polymer/zkmint",
+  "permalink": "/docs/polymer/zkmint",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/polymer/6-zkmint.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "sidebar_label": "zkMint"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Virtual IBC",
+    "permalink": "/docs/polymer/vibc"
+  },
+  "next": {
+    "title": "Native & virtual clients",
+    "permalink": "/docs/polymer/native-virtual-clients"
+  }
+}

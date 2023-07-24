@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/native-virtual-clients",
+  "id": "concepts/native-virtual-clients",
+  "title": "Native & virtual clients",
+  "description": "Making consensus ZK-friendly and flexible via the zkMint consensus engine ensures efficient and cost-effective verification of Tendermint consensus on the virtual chains. This solves one of the issues of integrating IBC into non-natively compatible chains.",
+  "source": "@site/docs/concepts/7-native-virtual-clients.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/native-virtual-clients",
+  "permalink": "/docs/concepts/native-virtual-clients",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/concepts/7-native-virtual-clients.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "sidebar_label": "Native & virtual clients"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zkMint",
+    "permalink": "/docs/concepts/zkmint"
+  },
+  "next": {
+    "title": "Wrap-up",
+    "permalink": "/docs/concepts/summary"
+  }
+}

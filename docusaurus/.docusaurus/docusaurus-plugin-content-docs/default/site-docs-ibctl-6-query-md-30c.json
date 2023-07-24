@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ibctl/query",
+  "id": "ibctl/query",
+  "title": "Reading from the chain(s)",
+  "description": "From last section we know that interacting with a blockhchain boils down to:",
+  "source": "@site/docs/ibctl/6-query.md",
+  "sourceDirName": "ibctl",
+  "slug": "/ibctl/query",
+  "permalink": "/docs/ibctl/query",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/ibctl/6-query.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "sidebar_label": "Read actions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Write actions",
+    "permalink": "/docs/ibctl/tx"
+  },
+  "next": {
+    "title": "Metrics",
+    "permalink": "/docs/ibctl/metrics"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Concepts",
+  "description": "The IBC and Polymer architecture basics to understand for IBC SDK devs",
+  "slug": "/category/concepts",
+  "permalink": "/docs/category/concepts",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/"
+    },
+    "next": {
+      "title": "IBC",
+      "permalink": "/docs/category/ibc"
+    }
+  }
+}

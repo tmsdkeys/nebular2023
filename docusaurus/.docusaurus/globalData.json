@@ -1,0 +1,198 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "concepts/IBC/ibc",
+              "path": "/docs/concepts/IBC/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/polymer/ibc-expansion-problem",
+              "path": "/docs/concepts/polymer/ibc-expansion-problem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/polymer/index",
+              "path": "/docs/concepts/polymer/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/polymer/multi-hop",
+              "path": "/docs/concepts/polymer/multi-hop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/polymer/native-virtual-clients",
+              "path": "/docs/concepts/polymer/native-virtual-clients",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/polymer/summary",
+              "path": "/docs/concepts/polymer/summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/polymer/vibc",
+              "path": "/docs/concepts/polymer/vibc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/polymer/zkmint",
+              "path": "/docs/concepts/polymer/zkmint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-environment/CosmWasm/ibc-cw",
+              "path": "/docs/dev-environment/CosmWasm/ibc-cw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-environment/CosmWasm/index",
+              "path": "/docs/dev-environment/CosmWasm/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-environment/CosmWasm/interact",
+              "path": "/docs/dev-environment/CosmWasm/interact",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-environment/EVM/ibc-sol",
+              "path": "/docs/dev-environment/EVM/ibc-sol",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-environment/EVM/index",
+              "path": "/docs/dev-environment/EVM/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-environment/EVM/interact",
+              "path": "/docs/dev-environment/EVM/interact",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-environment/index",
+              "path": "/docs/dev-environment/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ibctl/config",
+              "path": "/docs/ibctl/config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ibctl/docker",
+              "path": "/docs/ibctl/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ibctl/index",
+              "path": "/docs/ibctl/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ibctl/metrics",
+              "path": "/docs/ibctl/metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ibctl/query",
+              "path": "/docs/ibctl/query",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ibctl/setup",
+              "path": "/docs/ibctl/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ibctl/tx",
+              "path": "/docs/ibctl/tx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quickstart/index",
+              "path": "/docs/quickstart/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quickstart/quickstart-1",
+              "path": "/docs/quickstart/quickstart-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quickstart/quickstart-2",
+              "path": "/docs/quickstart/quickstart-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/concepts",
+              "path": "/docs/category/concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ibc",
+              "path": "/docs/category/ibc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/polymer-protocol",
+              "path": "/docs/category/polymer-protocol",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/quickstart-tutorials",
+              "path": "/docs/category/quickstart-tutorials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/dev-environment",
+              "path": "/docs/category/dev-environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/evm",
+              "path": "/docs/category/evm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/cosmwasm",
+              "path": "/docs/category/cosmwasm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ibctl-cli-tool",
+              "path": "/docs/category/ibctl-cli-tool",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

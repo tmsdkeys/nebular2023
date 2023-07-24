@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/polymer/vibc",
+  "id": "concepts/polymer/vibc",
+  "title": "Step 2: Virtual IBC",
+  "description": "In the previous step we added Polymer as a hub in between two Cosmos chains. Now let’s replace one of the chains with a chain that is not natively compatible with IBC, like Ethereum.",
+  "source": "@site/docs/concepts/polymer/vibc.md",
+  "sourceDirName": "concepts/polymer",
+  "slug": "/concepts/polymer/vibc",
+  "permalink": "/docs/concepts/polymer/vibc",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/concepts/polymer/vibc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Virtual IBC"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multi-hop IBC",
+    "permalink": "/docs/concepts/polymer/multi-hop"
+  },
+  "next": {
+    "title": "zkMint",
+    "permalink": "/docs/concepts/polymer/zkmint"
+  }
+}

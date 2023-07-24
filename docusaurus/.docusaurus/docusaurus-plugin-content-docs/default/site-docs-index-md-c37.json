@@ -1,0 +1,24 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "IBC SDK",
+  "description": "The IBC SDK is a powerful NodeJS package designed to streamline cross-chain dapp (xdapp) development using the Inter-Blockchain Communication (IBC) protocol.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Concepts",
+    "permalink": "/docs/category/concepts"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "ibctl CLI tool",
+  "description": "Become an IBC SDK CLI power user.",
+  "slug": "/category/ibctl-cli-tool",
+  "permalink": "/docs/category/ibctl-cli-tool",
+  "navigation": {
+    "previous": {
+      "title": "Interact with CosmWasm contracts",
+      "permalink": "/docs/dev-environment/CosmWasm/interact"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/ibctl/"
+    }
+  }
+}

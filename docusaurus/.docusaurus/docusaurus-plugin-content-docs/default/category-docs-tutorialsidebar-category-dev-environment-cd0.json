@@ -1,0 +1,16 @@
+{
+  "title": "Dev Environment",
+  "description": "How to interact with IBC SDK from within a specific environment",
+  "slug": "/category/dev-environment",
+  "permalink": "/docs/category/dev-environment",
+  "navigation": {
+    "previous": {
+      "title": "Vote cross-chain on lending",
+      "permalink": "/docs/quickstart/quickstart-2"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/dev-environment/"
+    }
+  }
+}

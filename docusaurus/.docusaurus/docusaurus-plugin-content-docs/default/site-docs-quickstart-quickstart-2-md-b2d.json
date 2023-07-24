@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quickstart/quickstart-2",
+  "id": "quickstart/quickstart-2",
+  "title": "Quickstart tutorial 2: Vote cross-chain on asset to borrow",
+  "description": "In the first quickstart tutorial you were able to see how easy and effcient it is to go from project setup to sending your first packet. The contracts we used there were rather basic though, not representative of a real world use case.",
+  "source": "@site/docs/quickstart/quickstart-2.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/quickstart-2",
+  "permalink": "/docs/quickstart/quickstart-2",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/quickstart/quickstart-2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Vote cross-chain on lending"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Race to send packets",
+    "permalink": "/docs/quickstart/quickstart-1"
+  },
+  "next": {
+    "title": "Dev Environment",
+    "permalink": "/docs/category/dev-environment"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ibctl/tx",
+  "id": "ibctl/tx",
+  "title": "Write to the chain(s)",
+  "description": "As you likely know, interacting with a blockhchain boils down to:",
+  "source": "@site/docs/ibctl/5-tx.md",
+  "sourceDirName": "ibctl",
+  "slug": "/ibctl/tx",
+  "permalink": "/docs/ibctl/tx",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/ibctl/5-tx.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "sidebar_label": "Write actions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker orchestration",
+    "permalink": "/docs/ibctl/docker"
+  },
+  "next": {
+    "title": "Read actions",
+    "permalink": "/docs/ibctl/query"
+  }
+}

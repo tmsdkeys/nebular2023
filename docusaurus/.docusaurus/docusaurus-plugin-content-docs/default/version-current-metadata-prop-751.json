@@ -1,0 +1,400 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": "Concepts",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "IBC",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "IBC (general)",
+                "href": "/docs/concepts/IBC/",
+                "docId": "concepts/IBC/ibc"
+              }
+            ],
+            "href": "/docs/category/ibc"
+          },
+          {
+            "type": "category",
+            "label": "Polymer protocol",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Why Polymer",
+                "href": "/docs/concepts/polymer/",
+                "docId": "concepts/polymer/index"
+              },
+              {
+                "type": "link",
+                "label": "IBC Expansion",
+                "href": "/docs/concepts/polymer/ibc-expansion-problem",
+                "docId": "concepts/polymer/ibc-expansion-problem"
+              },
+              {
+                "type": "link",
+                "label": "Multi-hop IBC",
+                "href": "/docs/concepts/polymer/multi-hop",
+                "docId": "concepts/polymer/multi-hop"
+              },
+              {
+                "type": "link",
+                "label": "Virtual IBC",
+                "href": "/docs/concepts/polymer/vibc",
+                "docId": "concepts/polymer/vibc"
+              },
+              {
+                "type": "link",
+                "label": "zkMint",
+                "href": "/docs/concepts/polymer/zkmint",
+                "docId": "concepts/polymer/zkmint"
+              },
+              {
+                "type": "link",
+                "label": "Native & virtual clients",
+                "href": "/docs/concepts/polymer/native-virtual-clients",
+                "docId": "concepts/polymer/native-virtual-clients"
+              },
+              {
+                "type": "link",
+                "label": "Wrap-up",
+                "href": "/docs/concepts/polymer/summary",
+                "docId": "concepts/polymer/summary"
+              }
+            ],
+            "href": "/docs/category/polymer-protocol"
+          }
+        ],
+        "href": "/docs/category/concepts"
+      },
+      {
+        "type": "category",
+        "label": "Quickstart Tutorials",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/quickstart/",
+            "docId": "quickstart/index"
+          },
+          {
+            "type": "link",
+            "label": "Race to send packets",
+            "href": "/docs/quickstart/quickstart-1",
+            "docId": "quickstart/quickstart-1"
+          },
+          {
+            "type": "link",
+            "label": "Vote cross-chain on lending",
+            "href": "/docs/quickstart/quickstart-2",
+            "docId": "quickstart/quickstart-2"
+          }
+        ],
+        "href": "/docs/category/quickstart-tutorials"
+      },
+      {
+        "type": "category",
+        "label": "Dev Environment",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/dev-environment/",
+            "docId": "dev-environment/index"
+          },
+          {
+            "type": "category",
+            "label": "EVM",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "EVM dev ecosystem",
+                "href": "/docs/dev-environment/EVM/",
+                "docId": "dev-environment/EVM/index"
+              },
+              {
+                "type": "link",
+                "label": "IBC & Solidity",
+                "href": "/docs/dev-environment/EVM/ibc-sol",
+                "docId": "dev-environment/EVM/ibc-sol"
+              },
+              {
+                "type": "link",
+                "label": "Interact with EVM contracts",
+                "href": "/docs/dev-environment/EVM/interact",
+                "docId": "dev-environment/EVM/interact"
+              }
+            ],
+            "href": "/docs/category/evm"
+          },
+          {
+            "type": "category",
+            "label": "CosmWasm",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "CosmWasm dev ecosystem",
+                "href": "/docs/dev-environment/CosmWasm/",
+                "docId": "dev-environment/CosmWasm/index"
+              },
+              {
+                "type": "link",
+                "label": "IBC & CosmWasm",
+                "href": "/docs/dev-environment/CosmWasm/ibc-cw",
+                "docId": "dev-environment/CosmWasm/ibc-cw"
+              },
+              {
+                "type": "link",
+                "label": "Interact with CosmWasm contracts",
+                "href": "/docs/dev-environment/CosmWasm/interact",
+                "docId": "dev-environment/CosmWasm/interact"
+              }
+            ],
+            "href": "/docs/category/cosmwasm"
+          }
+        ],
+        "href": "/docs/category/dev-environment"
+      },
+      {
+        "type": "category",
+        "label": "ibctl CLI tool",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/ibctl/",
+            "docId": "ibctl/index"
+          },
+          {
+            "type": "link",
+            "label": "Setup",
+            "href": "/docs/ibctl/setup",
+            "docId": "ibctl/setup"
+          },
+          {
+            "type": "link",
+            "label": "Configuration file",
+            "href": "/docs/ibctl/config",
+            "docId": "ibctl/config"
+          },
+          {
+            "type": "link",
+            "label": "Docker orchestration",
+            "href": "/docs/ibctl/docker",
+            "docId": "ibctl/docker"
+          },
+          {
+            "type": "link",
+            "label": "Write actions",
+            "href": "/docs/ibctl/tx",
+            "docId": "ibctl/tx"
+          },
+          {
+            "type": "link",
+            "label": "Read actions",
+            "href": "/docs/ibctl/query",
+            "docId": "ibctl/query"
+          },
+          {
+            "type": "link",
+            "label": "Metrics",
+            "href": "/docs/ibctl/metrics",
+            "docId": "ibctl/metrics"
+          }
+        ],
+        "href": "/docs/category/ibctl-cli-tool"
+      }
+    ]
+  },
+  "docs": {
+    "concepts/IBC/ibc": {
+      "id": "concepts/IBC/ibc",
+      "title": "IBC",
+      "description": "In February 2021, the Cosmos Stargate release brought the Inter-Blockchain Communication (IBC) protocol into the world. Stargate was a set of upgrades that implemented the original vision laid out in the Cosmos whitepaper — to build a network of sovereign, interoperable blockchains.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/polymer/ibc-expansion-problem": {
+      "id": "concepts/polymer/ibc-expansion-problem",
+      "title": "How to extend IBC?",
+      "description": "The traditional IBC setup works when both chains are Cosmos chains (or any other chain that has a native IBC implementation), but what if we want to introduce another chain that does not have a native IBC implementation available?",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/polymer/index": {
+      "id": "concepts/polymer/index",
+      "title": "Why Polymer?",
+      "description": "The blockchain space is moving towards an ever growing number of execution shards appearing. L1s, alt-L1s, rollups, app chains and app rollups all fall under this category. Modular blockchains also further complicate the landscape by massively opening up the design space for blockchains.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/polymer/multi-hop": {
+      "id": "concepts/polymer/multi-hop",
+      "title": "Step 1: Multi-hop support",
+      "description": "Ultimately Polymer will place itself as an IBC router hub in between two chains wanting to connect over IBC. For this, it relies on the multi-hop IBC specification that ensures that chains can send packets over IBC between one another despite them not having a direct IBC connection, instead leveraging multiple hops where IBC connections do already exist.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/polymer/native-virtual-clients": {
+      "id": "concepts/polymer/native-virtual-clients",
+      "title": "Native & virtual clients",
+      "description": "Making consensus ZK-friendly and flexible via the zkMint consensus engine ensures efficient and cost-effective verification of Tendermint consensus on the virtual chains. This solves one of the issues of integrating IBC into non-natively compatible chains.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/polymer/summary": {
+      "id": "concepts/polymer/summary",
+      "title": "Summary of the Polymer protocol",
+      "description": "The different concepts of the Polymer protocol, combine together to accelerate IBC expansion to chains or ecosystems that do not have native IBC implementations. In turn, we believe that this will lead to IBC and the Polymer Hub to become the backbone of blockchain interoperability.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/polymer/vibc": {
+      "id": "concepts/polymer/vibc",
+      "title": "Step 2: Virtual IBC",
+      "description": "In the previous step we added Polymer as a hub in between two Cosmos chains. Now let’s replace one of the chains with a chain that is not natively compatible with IBC, like Ethereum.",
+      "sidebar": "tutorialSidebar"
+    },
+    "concepts/polymer/zkmint": {
+      "id": "concepts/polymer/zkmint",
+      "title": "Reducing EVM consensus proof verifcation cost with zkMint",
+      "description": "The Polymer chain, through its consensus engine zkMint, will generate a header with signatures optimized for an off-chain zero-knowledge (ZK) circuit and verification in the EVM . An off-chain ZK prover will produce a zero-knowledge-proof (ZKP) of (Polymer’s) consensus that is verified on Ethereum (virtual chain) by the verifier contract, providing a significant reduction in gas cost.",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev-environment/CosmWasm/ibc-cw": {
+      "id": "dev-environment/CosmWasm/ibc-cw",
+      "title": "Using IBC in CosmWasm contracts",
+      "description": "IBC (Inter-blockchain communication) is the crown jewel of the Cosmos ecosystem and CosmWasm was designed with interoperability in mind.",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev-environment/CosmWasm/index": {
+      "id": "dev-environment/CosmWasm/index",
+      "title": "CosmWasm Developer Essentials",
+      "description": "One of the smart contracting frameworks that are supported by the IBC SDK, is CosmWasm (CW). CosmWasm enables developers to write smart contracts (usually in Rust) that compile down to WebAssembly (wasm) and deploy those in a CosmWasm virtual machine that can be added to Cosmos chains (technically, Cosmos SDK chains). Hence the name CosmWasm, Cosmos + Wasm.",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev-environment/CosmWasm/interact": {
+      "id": "dev-environment/CosmWasm/interact",
+      "title": "Interact with CosmWasm contracts",
+      "description": "In the previous sections, a brief introduction into CosmWasm development was provided. Single or multichain with IBC.",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev-environment/EVM/ibc-sol": {
+      "id": "dev-environment/EVM/ibc-sol",
+      "title": "Using IBC in Solidity",
+      "description": "IBC enabled smart contracts act as IBC application modules, within the interoperability model:",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev-environment/EVM/index": {
+      "id": "dev-environment/EVM/index",
+      "title": "EVM and Solidity dev environment essentials",
+      "description": "Ethereum, launched in 2015 by Vitalik Buterin, has revolutionized the blockchain landscape by introducing a decentralized, programmable platform for building decentralized applications (dApps). Ethereum's development history showcases an evolution of tools and resources that have empowered developers to create smart contracts and dApps on the network.",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev-environment/EVM/interact": {
+      "id": "dev-environment/EVM/interact",
+      "title": "Interacting with Smart Contracts using ABI and EVM Bytecode",
+      "description": "When interacting with smart contracts on the Ethereum network, the ABI and EVM bytecode play essential roles. The ABI provides a standardized interface for encoding and decoding function calls, while the EVM bytecode represents the low-level instructions executed by the Ethereum Virtual Machine.",
+      "sidebar": "tutorialSidebar"
+    },
+    "dev-environment/index": {
+      "id": "dev-environment/index",
+      "title": "Prepare your application development environment to use IBC SDK",
+      "description": "The IBC SDK simplifies the development process for xdapps by automating various tasks and providing essential functionalities",
+      "sidebar": "tutorialSidebar"
+    },
+    "ibctl/config": {
+      "id": "ibctl/config",
+      "title": "Configuration file",
+      "description": "The IBC SDK takes care of a whole list of concerns for you as an xDapp developer that you don’t need to worry about during runtime.",
+      "sidebar": "tutorialSidebar"
+    },
+    "ibctl/docker": {
+      "id": "ibctl/docker",
+      "title": "Docker container commands",
+      "description": "The IBC SDK takes care of the Docker container orchestration under the hood for you. Yet, there are a few commands which enable some interaction with the containers.",
+      "sidebar": "tutorialSidebar"
+    },
+    "ibctl/index": {
+      "id": "ibctl/index",
+      "title": "IBCTL CLI tool",
+      "description": "Developers can interact with the IBC SDK either through the API or the CLI tool, ibctl. In this section we review how to use the CLI to use the IBC SDK and speed up your development and testing cycles.",
+      "sidebar": "tutorialSidebar"
+    },
+    "ibctl/metrics": {
+      "id": "ibctl/metrics",
+      "title": "Metrics & troubleshooting",
+      "description": "All is good as long as we are hitting the happy path, but what to do when things don't (immediately) work out? Have a packet that got lost? A contract that won't deploy?",
+      "sidebar": "tutorialSidebar"
+    },
+    "ibctl/query": {
+      "id": "ibctl/query",
+      "title": "Reading from the chain(s)",
+      "description": "From last section we know that interacting with a blockhchain boils down to:",
+      "sidebar": "tutorialSidebar"
+    },
+    "ibctl/setup": {
+      "id": "ibctl/setup",
+      "title": "Setup commands",
+      "description": "This file contains information on the commands for setup, that will prepare your environment and start it.",
+      "sidebar": "tutorialSidebar"
+    },
+    "ibctl/tx": {
+      "id": "ibctl/tx",
+      "title": "Write to the chain(s)",
+      "description": "As you likely know, interacting with a blockhchain boils down to:",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "IBC SDK",
+      "description": "The IBC SDK is a powerful NodeJS package designed to streamline cross-chain dapp (xdapp) development using the Inter-Blockchain Communication (IBC) protocol.",
+      "sidebar": "tutorialSidebar"
+    },
+    "quickstart/index": {
+      "id": "quickstart/index",
+      "title": "Quickstart Tuturials",
+      "description": "Excited to start using the IBC SDK but not sure where/how to start? No worries, we'll continue to develop some tutorials to cover the basics to get you onboarded!",
+      "sidebar": "tutorialSidebar"
+    },
+    "quickstart/quickstart-1": {
+      "id": "quickstart/quickstart-1",
+      "title": "Quickstart tutorial: Race to send packets",
+      "description": "The claim made for IBC SDK is that it makes the cross-chain dapp developer's life much easier by automating a lot of the tasks normally executed by the developer just to set up the testing environment.",
+      "sidebar": "tutorialSidebar"
+    },
+    "quickstart/quickstart-2": {
+      "id": "quickstart/quickstart-2",
+      "title": "Quickstart tutorial 2: Vote cross-chain on asset to borrow",
+      "description": "In the first quickstart tutorial you were able to see how easy and effcient it is to go from project setup to sending your first packet. The contracts we used there were rather basic though, not representative of a real world use case.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

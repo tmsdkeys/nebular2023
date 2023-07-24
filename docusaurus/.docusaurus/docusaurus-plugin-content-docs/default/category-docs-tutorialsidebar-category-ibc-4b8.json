@@ -1,0 +1,16 @@
+{
+  "title": "IBC",
+  "description": "IBC architecture basics to understand for IBC SDK devs",
+  "slug": "/category/ibc",
+  "permalink": "/docs/category/ibc",
+  "navigation": {
+    "previous": {
+      "title": "Concepts",
+      "permalink": "/docs/category/concepts"
+    },
+    "next": {
+      "title": "IBC (general)",
+      "permalink": "/docs/concepts/IBC/"
+    }
+  }
+}

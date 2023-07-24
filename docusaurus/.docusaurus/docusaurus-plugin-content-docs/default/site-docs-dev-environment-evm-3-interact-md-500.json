@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dev-environment/EVM/interact",
+  "id": "dev-environment/EVM/interact",
+  "title": "Interacting with Smart Contracts using ABI and EVM Bytecode",
+  "description": "When interacting with smart contracts on the Ethereum network, the ABI and EVM bytecode play essential roles. The ABI provides a standardized interface for encoding and decoding function calls, while the EVM bytecode represents the low-level instructions executed by the Ethereum Virtual Machine.",
+  "source": "@site/docs/dev-environment/EVM/3-interact.md",
+  "sourceDirName": "dev-environment/EVM",
+  "slug": "/dev-environment/EVM/interact",
+  "permalink": "/docs/dev-environment/EVM/interact",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/dev-environment/EVM/3-interact.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Interact with EVM contracts"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IBC & Solidity",
+    "permalink": "/docs/dev-environment/EVM/ibc-sol"
+  },
+  "next": {
+    "title": "CosmWasm",
+    "permalink": "/docs/category/cosmwasm"
+  }
+}

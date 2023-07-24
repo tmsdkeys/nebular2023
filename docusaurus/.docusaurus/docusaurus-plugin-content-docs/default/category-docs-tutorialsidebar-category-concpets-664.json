@@ -1,0 +1,16 @@
+{
+  "title": "Concpets",
+  "description": "The IBC and Polymer architecture basics to understand for IBC SDK devs",
+  "slug": "/category/concpets",
+  "permalink": "/docs/category/concpets",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/"
+    },
+    "next": {
+      "title": "Why Polymer",
+      "permalink": "/docs/concepts/"
+    }
+  }
+}

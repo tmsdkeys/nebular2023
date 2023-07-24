@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/multi-hop",
+  "id": "concepts/multi-hop",
+  "title": "Step 1: Multi-hop support",
+  "description": "Ultimately Polymer will place itself as an IBC router hub in between two chains wanting to connect over IBC. For this, it relies on the multi-hop IBC specification that ensures that chains can send packets over IBC between one another despite them not having a direct IBC connection, instead leveraging multiple hops where IBC connections do already exist.",
+  "source": "@site/docs/concepts/4-multi-hop.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/multi-hop",
+  "permalink": "/docs/concepts/multi-hop",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/concepts/4-multi-hop.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Multi-hop IBC"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IBC Expansion",
+    "permalink": "/docs/concepts/ibc-expansion-problem"
+  },
+  "next": {
+    "title": "Virtual IBC",
+    "permalink": "/docs/concepts/vibc"
+  }
+}

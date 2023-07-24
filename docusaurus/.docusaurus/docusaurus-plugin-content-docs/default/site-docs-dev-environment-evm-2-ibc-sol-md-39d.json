@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dev-environment/EVM/ibc-sol",
+  "id": "dev-environment/EVM/ibc-sol",
+  "title": "Using IBC in Solidity",
+  "description": "IBC enabled smart contracts act as IBC application modules, within the interoperability model:",
+  "source": "@site/docs/dev-environment/EVM/2-ibc-sol.md",
+  "sourceDirName": "dev-environment/EVM",
+  "slug": "/dev-environment/EVM/ibc-sol",
+  "permalink": "/docs/dev-environment/EVM/ibc-sol",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/dev-environment/EVM/2-ibc-sol.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "IBC & Solidity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EVM dev ecosystem",
+    "permalink": "/docs/dev-environment/EVM/"
+  },
+  "next": {
+    "title": "Interact with EVM contracts",
+    "permalink": "/docs/dev-environment/EVM/interact"
+  }
+}

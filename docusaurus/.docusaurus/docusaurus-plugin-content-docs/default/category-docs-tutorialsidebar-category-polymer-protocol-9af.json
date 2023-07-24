@@ -1,0 +1,16 @@
+{
+  "title": "Polymer protocol",
+  "description": "Polymer architecture basics to understand for IBC SDK devs",
+  "slug": "/category/polymer-protocol",
+  "permalink": "/docs/category/polymer-protocol",
+  "navigation": {
+    "previous": {
+      "title": "IBC (general)",
+      "permalink": "/docs/concepts/IBC/"
+    },
+    "next": {
+      "title": "Why Polymer",
+      "permalink": "/docs/concepts/polymer/"
+    }
+  }
+}

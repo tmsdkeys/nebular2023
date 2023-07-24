@@ -1,0 +1,16 @@
+{
+  "title": "EVM",
+  "description": "How to interact with IBC SDK for EVM chains",
+  "slug": "/category/evm",
+  "permalink": "/docs/category/evm",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/dev-environment/"
+    },
+    "next": {
+      "title": "EVM dev ecosystem",
+      "permalink": "/docs/dev-environment/EVM/"
+    }
+  }
+}

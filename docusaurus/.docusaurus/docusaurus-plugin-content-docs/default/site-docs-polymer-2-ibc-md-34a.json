@@ -1,0 +1,28 @@
+{
+  "unversionedId": "polymer/ibc",
+  "id": "polymer/ibc",
+  "title": "IBC before Polymer",
+  "description": "In February 2021, the Cosmos Stargate release brought the Inter-Blockchain Communication (IBC) protocol into the world. Stargate was a set of upgrades that implemented the original vision laid out in the Cosmos whitepaper — to build a network of sovereign, interoperable blockchains.",
+  "source": "@site/docs/polymer/2-ibc.md",
+  "sourceDirName": "polymer",
+  "slug": "/polymer/ibc",
+  "permalink": "/docs/polymer/ibc",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/polymer/2-ibc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "IBC before Polymer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why Polymer",
+    "permalink": "/docs/polymer/"
+  },
+  "next": {
+    "title": "IBC Expansion",
+    "permalink": "/docs/polymer/ibc-expansion-problem"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dev-environment/EVM/index",
+  "id": "dev-environment/EVM/index",
+  "title": "EVM and Solidity dev environment essentials",
+  "description": "Ethereum, launched in 2015 by Vitalik Buterin, has revolutionized the blockchain landscape by introducing a decentralized, programmable platform for building decentralized applications (dApps). Ethereum's development history showcases an evolution of tools and resources that have empowered developers to create smart contracts and dApps on the network.",
+  "source": "@site/docs/dev-environment/EVM/index.md",
+  "sourceDirName": "dev-environment/EVM",
+  "slug": "/dev-environment/EVM/",
+  "permalink": "/docs/dev-environment/EVM/",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/dev-environment/EVM/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "EVM dev ecosystem"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EVM",
+    "permalink": "/docs/category/evm"
+  },
+  "next": {
+    "title": "IBC & Solidity",
+    "permalink": "/docs/dev-environment/EVM/ibc-sol"
+  }
+}

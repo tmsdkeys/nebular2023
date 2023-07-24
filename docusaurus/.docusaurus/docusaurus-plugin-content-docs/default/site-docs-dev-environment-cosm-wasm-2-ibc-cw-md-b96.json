@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dev-environment/CosmWasm/ibc-cw",
+  "id": "dev-environment/CosmWasm/ibc-cw",
+  "title": "Using IBC in CosmWasm contracts",
+  "description": "IBC (Inter-blockchain communication) is the crown jewel of the Cosmos ecosystem and CosmWasm was designed with interoperability in mind.",
+  "source": "@site/docs/dev-environment/CosmWasm/2-ibc-cw.md",
+  "sourceDirName": "dev-environment/CosmWasm",
+  "slug": "/dev-environment/CosmWasm/ibc-cw",
+  "permalink": "/docs/dev-environment/CosmWasm/ibc-cw",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/dev-environment/CosmWasm/2-ibc-cw.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_postion": 2,
+    "sidebar_label": "IBC & CosmWasm"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CosmWasm dev ecosystem",
+    "permalink": "/docs/dev-environment/CosmWasm/"
+  },
+  "next": {
+    "title": "Interact with CosmWasm contracts",
+    "permalink": "/docs/dev-environment/CosmWasm/interact"
+  }
+}

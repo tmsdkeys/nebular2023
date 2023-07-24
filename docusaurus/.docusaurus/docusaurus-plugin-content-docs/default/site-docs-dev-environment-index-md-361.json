@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dev-environment/index",
+  "id": "dev-environment/index",
+  "title": "Prepare your application development environment to use IBC SDK",
+  "description": "The IBC SDK simplifies the development process for xdapps by automating various tasks and providing essential functionalities",
+  "source": "@site/docs/dev-environment/index.md",
+  "sourceDirName": "dev-environment",
+  "slug": "/dev-environment/",
+  "permalink": "/docs/dev-environment/",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/dev-environment/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dev Environment",
+    "permalink": "/docs/category/dev-environment"
+  },
+  "next": {
+    "title": "EVM",
+    "permalink": "/docs/category/evm"
+  }
+}

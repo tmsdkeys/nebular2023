@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/index",
+  "id": "concepts/index",
+  "title": "Why Polymer?",
+  "description": "The blockchain space is moving towards an ever growing number of execution shards appearing. L1s, alt-L1s, rollups, app chains and app rollups all fall under this category. Modular blockchains also further complicate the landscape by massively opening up the design space for blockchains.",
+  "source": "@site/docs/concepts/index.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/",
+  "permalink": "/docs/concepts/",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/concepts/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Why Polymer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concepts",
+    "permalink": "/docs/category/concepts"
+  },
+  "next": {
+    "title": "IBC before Polymer",
+    "permalink": "/docs/concepts/ibc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ibctl/setup",
+  "id": "ibctl/setup",
+  "title": "Setup commands",
+  "description": "This file contains information on the commands for setup, that will prepare your environment and start it.",
+  "source": "@site/docs/ibctl/2-setup.md",
+  "sourceDirName": "ibctl",
+  "slug": "/ibctl/setup",
+  "permalink": "/docs/ibctl/setup",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/ibctl/2-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Setup"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/ibctl/"
+  },
+  "next": {
+    "title": "Configuration file",
+    "permalink": "/docs/ibctl/config"
+  }
+}

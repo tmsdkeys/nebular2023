@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/ibc-expansion-problem",
+  "id": "concepts/ibc-expansion-problem",
+  "title": "How to extend IBC?",
+  "description": "The traditional IBC setup works when both chains are Cosmos chains (or any other chain that has a native IBC implementation), but what if we want to introduce another chain that does not have a native IBC implementation available?",
+  "source": "@site/docs/concepts/3-ibc-expansion-problem.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/ibc-expansion-problem",
+  "permalink": "/docs/concepts/ibc-expansion-problem",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/concepts/3-ibc-expansion-problem.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "IBC Expansion"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IBC before Polymer",
+    "permalink": "/docs/concepts/ibc"
+  },
+  "next": {
+    "title": "Multi-hop IBC",
+    "permalink": "/docs/concepts/multi-hop"
+  }
+}

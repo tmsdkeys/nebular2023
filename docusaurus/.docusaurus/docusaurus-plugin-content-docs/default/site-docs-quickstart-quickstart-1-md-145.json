@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quickstart/quickstart-1",
+  "id": "quickstart/quickstart-1",
+  "title": "Quickstart tutorial: Race to send packets",
+  "description": "The claim made for IBC SDK is that it makes the cross-chain dapp developer's life much easier by automating a lot of the tasks normally executed by the developer just to set up the testing environment.",
+  "source": "@site/docs/quickstart/quickstart-1.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/quickstart-1",
+  "permalink": "/docs/quickstart/quickstart-1",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/quickstart/quickstart-1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Race to send packets"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/quickstart/"
+  },
+  "next": {
+    "title": "Vote cross-chain on lending",
+    "permalink": "/docs/quickstart/quickstart-2"
+  }
+}

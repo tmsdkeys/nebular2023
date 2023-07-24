@@ -1,0 +1,16 @@
+{
+  "title": "CosmWasm",
+  "description": "How to interact with IBC SDK for CosmWasm chains",
+  "slug": "/category/cosmwasm",
+  "permalink": "/docs/category/cosmwasm",
+  "navigation": {
+    "previous": {
+      "title": "Interact with EVM contracts",
+      "permalink": "/docs/dev-environment/EVM/interact"
+    },
+    "next": {
+      "title": "CosmWasm dev ecosystem",
+      "permalink": "/docs/dev-environment/CosmWasm/"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ibctl/config",
+  "id": "ibctl/config",
+  "title": "Configuration file",
+  "description": "The IBC SDK takes care of a whole list of concerns for you as an xDapp developer that you don’t need to worry about during runtime.",
+  "source": "@site/docs/ibctl/3-config.md",
+  "sourceDirName": "ibctl",
+  "slug": "/ibctl/config",
+  "permalink": "/docs/ibctl/config",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/ibctl/3-config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidbar_label": "Configuration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup",
+    "permalink": "/docs/ibctl/setup"
+  },
+  "next": {
+    "title": "Docker orchestration",
+    "permalink": "/docs/ibctl/docker"
+  }
+}

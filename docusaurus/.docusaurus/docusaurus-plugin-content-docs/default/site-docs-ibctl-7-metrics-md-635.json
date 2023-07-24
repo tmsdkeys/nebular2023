@@ -1,0 +1,24 @@
+{
+  "unversionedId": "ibctl/metrics",
+  "id": "ibctl/metrics",
+  "title": "Metrics & troubleshooting",
+  "description": "All is good as long as we are hitting the happy path, but what to do when things don't (immediately) work out? Have a packet that got lost? A contract that won't deploy?",
+  "source": "@site/docs/ibctl/7-metrics.md",
+  "sourceDirName": "ibctl",
+  "slug": "/ibctl/metrics",
+  "permalink": "/docs/ibctl/metrics",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/ibctl/7-metrics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "sidebar_label": "Metrics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Read actions",
+    "permalink": "/docs/ibctl/query"
+  }
+}

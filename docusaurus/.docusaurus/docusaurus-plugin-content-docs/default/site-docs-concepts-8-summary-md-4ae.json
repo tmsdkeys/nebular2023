@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concepts/summary",
+  "id": "concepts/summary",
+  "title": "Summary of the Polymer protocol",
+  "description": "The different concepts of the Polymer protocol, combine together to accelerate IBC expansion to chains or ecosystems that do not have native IBC implementations. In turn, we believe that this will lead to IBC and the Polymer Hub to become the backbone of blockchain interoperability.",
+  "source": "@site/docs/concepts/8-summary.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/summary",
+  "permalink": "/docs/concepts/summary",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/concepts/8-summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "sidebar_label": "Wrap-up"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Native & virtual clients",
+    "permalink": "/docs/concepts/native-virtual-clients"
+  },
+  "next": {
+    "title": "Quickstart Tutorials",
+    "permalink": "/docs/category/quickstart-tutorials"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quickstart/index",
+  "id": "quickstart/index",
+  "title": "Quickstart Tuturials",
+  "description": "Excited to start using the IBC SDK but not sure where/how to start? No worries, we'll continue to develop some tutorials to cover the basics to get you onboarded!",
+  "source": "@site/docs/quickstart/index.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/",
+  "permalink": "/docs/quickstart/",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/quickstart/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart Tutorials",
+    "permalink": "/docs/category/quickstart-tutorials"
+  },
+  "next": {
+    "title": "Race to send packets",
+    "permalink": "/docs/quickstart/quickstart-1"
+  }
+}

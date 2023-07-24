@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dev-environment/CosmWasm/index",
+  "id": "dev-environment/CosmWasm/index",
+  "title": "CosmWasm Developer Essentials",
+  "description": "One of the smart contracting frameworks that are supported by the IBC SDK, is CosmWasm (CW). CosmWasm enables developers to write smart contracts (usually in Rust) that compile down to WebAssembly (wasm) and deploy those in a CosmWasm virtual machine that can be added to Cosmos chains (technically, Cosmos SDK chains). Hence the name CosmWasm, Cosmos + Wasm.",
+  "source": "@site/docs/dev-environment/CosmWasm/index.md",
+  "sourceDirName": "dev-environment/CosmWasm",
+  "slug": "/dev-environment/CosmWasm/",
+  "permalink": "/docs/dev-environment/CosmWasm/",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/dev-environment/CosmWasm/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "CosmWasm dev ecosystem"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CosmWasm",
+    "permalink": "/docs/category/cosmwasm"
+  },
+  "next": {
+    "title": "IBC & CosmWasm",
+    "permalink": "/docs/dev-environment/CosmWasm/ibc-cw"
+  }
+}

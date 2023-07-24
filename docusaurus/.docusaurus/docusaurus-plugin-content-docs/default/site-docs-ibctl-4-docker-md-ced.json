@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ibctl/docker",
+  "id": "ibctl/docker",
+  "title": "Docker container commands",
+  "description": "The IBC SDK takes care of the Docker container orchestration under the hood for you. Yet, there are a few commands which enable some interaction with the containers.",
+  "source": "@site/docs/ibctl/4-docker.md",
+  "sourceDirName": "ibctl",
+  "slug": "/ibctl/docker",
+  "permalink": "/docs/ibctl/docker",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/ibctl/4-docker.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Docker orchestration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration file",
+    "permalink": "/docs/ibctl/config"
+  },
+  "next": {
+    "title": "Write actions",
+    "permalink": "/docs/ibctl/tx"
+  }
+}

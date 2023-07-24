@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ibctl/index",
+  "id": "ibctl/index",
+  "title": "IBCTL CLI tool",
+  "description": "Developers can interact with the IBC SDK either through the API or the CLI tool, ibctl. In this section we review how to use the CLI to use the IBC SDK and speed up your development and testing cycles.",
+  "source": "@site/docs/ibctl/index.md",
+  "sourceDirName": "ibctl",
+  "slug": "/ibctl/",
+  "permalink": "/docs/ibctl/",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/ibctl/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ibctl CLI tool",
+    "permalink": "/docs/category/ibctl-cli-tool"
+  },
+  "next": {
+    "title": "Setup",
+    "permalink": "/docs/ibctl/setup"
+  }
+}

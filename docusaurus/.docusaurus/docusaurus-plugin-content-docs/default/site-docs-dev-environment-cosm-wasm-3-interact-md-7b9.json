@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dev-environment/CosmWasm/interact",
+  "id": "dev-environment/CosmWasm/interact",
+  "title": "Interact with CosmWasm contracts",
+  "description": "In the previous sections, a brief introduction into CosmWasm development was provided. Single or multichain with IBC.",
+  "source": "@site/docs/dev-environment/CosmWasm/3-interact.md",
+  "sourceDirName": "dev-environment/CosmWasm",
+  "slug": "/dev-environment/CosmWasm/interact",
+  "permalink": "/docs/dev-environment/CosmWasm/interact",
+  "draft": false,
+  "editUrl": "https://github.com/polymerdao/ibc-sdk/docs/dev-environment/CosmWasm/3-interact.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Interact with CosmWasm contracts"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IBC & CosmWasm",
+    "permalink": "/docs/dev-environment/CosmWasm/ibc-cw"
+  },
+  "next": {
+    "title": "ibctl CLI tool",
+    "permalink": "/docs/category/ibctl-cli-tool"
+  }
+}
